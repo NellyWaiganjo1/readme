@@ -91,7 +91,7 @@ The app is built using a microservice architecture with the frontend built using
 1. Login/Signup: Create an account or log in with details such as your fullname, phone number, email.
 2. Browsing Movies: Browse for movies using the search bar or our user-friendly UI to access great content.
 3. Streaming a Movie: Select a movie of your liking, choose whether to Rent it for 7 days or Own it for life. After that Top-Up your account with your preferred method, pay for the movie and start streaming.
-   ![Image for movie details, with trailer](images\moviedetails.jpg)
+   ![Image for movie details, with trailer](images/moviedetails.jpg)
 4. Request Screening: Users can request for screening and fill out a form.
    ![Image for events and request screening](images\homescreenevents.jpg)
    ![Image for events and request screening](images\screening.jpg)
