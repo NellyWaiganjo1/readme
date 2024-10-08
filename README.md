@@ -74,7 +74,7 @@ The app is built using a microservice architecture with the frontend built using
 
 1. Network Error: Verify that the backend API is running, and ensure the API endpoint is correctly configured.
 2. Collections: API sometimes fails to fetch after purchasing a movie.
-   ![path to the collections error msg](images\collections.jpg)
+   ![path to the collections error msg](images/collections.jpg)
 
 ### Debugging:
 
@@ -93,27 +93,27 @@ The app is built using a microservice architecture with the frontend built using
 3. Streaming a Movie: Select a movie of your liking, choose whether to Rent it for 7 days or Own it for life. After that Top-Up your account with your preferred method, pay for the movie and start streaming.
    ![Image for movie details, with trailer](images/moviedetails.jpg)
 4. Request Screening: Users can request for screening and fill out a form.
-   ![Image for events and request screening](images\homescreenevents.jpg)
-   ![Image for events and request screening](images\screening.jpg)
+   ![Image for events and request screening](images/homescreenevents.jpg)
+   ![Image for events and request screening](images/screening.jpg)
 5. See upcoming Events.
-   ![Image to the events and onclick on the learn more for events](images\homescreenevents.jpg)
-   ![Image to the events and onclick on the learn more for events](images\event.jpg)
-   ![Image to the events and onclick on the learn more for events](images\eventlearnmore.jpg)
+   ![Image to the events and onclick on the learn more for events](images/homescreenevents.jpg)
+   ![Image to the events and onclick on the learn more for events](images/event.jpg)
+   ![Image to the events and onclick on the learn more for events](images/eventlearnmore.jpg)
 
 ## Requirements:
 
 ### a. User Authentication
 
 - Sign Up/Sign In: Allow users to create accounts using email, phone number, or social media.
-  ![Signup Screen](images\signup.jpg)
-  ![Login Screen](images\login.jpg)
+  ![Signup Screen](images/signup.jpg)
+  ![Login Screen](images/login.jpg)
 
 ### b. Content Library
 
 - Browse and Search: Users should be able to browse and search for movies, series, and documentaries.
-  ![Movie Browsing/search bar Screen](images\searchbar.jpg)
+  ![Movie Browsing/search bar Screen](images/searchbar.jpg)
 - Categories and Filters: Implement categories (e.g. genres) and filters to help users find content easily.
-  ![Movie Browsing/with search categories Screen](images\searchcategories.jpg)
+  ![Movie Browsing/with search categories Screen](images/searchcategories.jpg)
 - Personalized Recommendations: Use machine learning algorithms to recommend content based on user preferences, watch history, and trending content.
 
 ### c. Video Playback
@@ -124,9 +124,9 @@ The app is built using a microservice architecture with the frontend built using
 ### d. Subscription and Payment
 
 - In-App Purchases: Allow users to subscribe or purchase content directly within the app using in-app purchases.
-  ![subscription, image with alert for purchase in the movie details screen](images\paymentalert.jpg)
+  ![subscription, image with alert for purchase in the movie details screen](images/paymentalert.jpg)
 - Local Payment Methods: Integrate local payment gateways (e.g., mobile money, bank transfers) to cater to the African market.
-  ![Payment options](images\paymentoptions.jpg)
+  ![Payment options](images/paymentoptions.jpg)
 
 ## Backend and API Requirements
 
@@ -332,7 +332,7 @@ Optimized Video Streaming: Use adaptive bitrate streaming to adjust video qualit
 
 Uses a Bottom navigation bar for easy access to key sections (e.g., Home, Categories, Search, Profile).
 Bottom navigation is used on mobile devices for easier thumb access.
-![bottom navigation image](images\bottonnav.jpg)
+![bottom navigation image](images/bottonnav.jpg)
 
 
 ## User Flows:
@@ -354,7 +354,7 @@ Large, high-quality movie thumbnails are likely the focal point of the design, w
 Content Sections:
 
 Content is likely organized into sections (e.g., "Trending", "New Releases") with clear headings and horizontal scrolling for easy browsing.
-![content section](images\homescreen.jpg)
+![content section](images/homescreen.jpg)
 
 ## Interaction Design
 
